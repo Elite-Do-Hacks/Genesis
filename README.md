@@ -1,7 +1,7 @@
 # 🤖 Genesis — Smart Minecraft AI Companion
 
 > **Not a command bot. A teammate that listens.**  
-> 🌐 **Official Website & Download:** [Genesismc.netlify.app](https://netlify.app)
+> 🌐 **Official Website & Download:** [Genesis Official Website](https://Genesismc.netlify.app)
 
 **Genesis** is an intelligent, self-sufficient Minecraft AI companion built with **Mineflayer** and **Google Gemini** by **Shubh Rastogi**. Instead of memorizing rigid syntax like `!craft diamond_sword 2`, you can talk to Genesis naturally in chat—and its AI brain translates casual phrasing, slang, and typos into real-time in-game actions.
 
