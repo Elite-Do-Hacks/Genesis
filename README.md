@@ -16,6 +16,7 @@
 * 🧭 **Pathfinding & Item Delivery:** Navigates terrain via `mineflayer-pathfinder` to follow players at a two-block distance or fuzzy-match and toss requested items.
 * 🌐 **Any-Version Auto-Detect:** Automatically detects the Minecraft server version upon connecting with zero manual configuration.
 * 💻 **Live Host Terminal Control:** Server admins can type directly into the Node.js host console to relay messages straight into in-game chat.
+* 🔨 **.Schem Building:** Automatically loads .schem files from inside its directory like Home.schem to build giant structures. 
 
 ---
 
